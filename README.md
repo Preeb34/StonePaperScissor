@@ -1,2 +1,2 @@
 # StonePaperScissor
-It is a very common game known as stone paper scissor
+It is a very common game known as stone paper scissor develpoed on python
